@@ -5,4 +5,4 @@
 After a series of attempts such as generating different sizes of images, 32x32x30, 64x64x3, 32x32x6, 32x32x3, 16x16x3 via GAN, I found that the 32x32x30 and 64x64x3 size of images perform better.
 
 
-<div align=center><img src="https://github.com/Robert-Mar/HSI_classification-via-2D-3D-Conv-and-Hybrid-Net/blob/master/GAN_with_different_size/32x32x30_upgrade4.png" width = "300" height= "600">
+<div align=center><img src="https://github.com/Robert-Mar/HSI_classification-via-2D-3D-Conv-and-Hybrid-Net/blob/master/GAN_with_different_size/32x32x30_upgrade4.png" width = "150" height= "300">
